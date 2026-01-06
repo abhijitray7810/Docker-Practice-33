@@ -3,7 +3,7 @@
 ## Overview
 This document provides instructions for deploying an nginx container on Application Server 1 as part of the Nautilus DevOps team's application deployment tests.
 
-## Prerequisites 
+## Prerequisites  
 - SSH access to Application Server 1
 - Docker installed and running on Application Server 1
 - Appropriate permissions to run Docker commands (sudo/root or user in docker group)
